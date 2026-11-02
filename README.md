@@ -12,6 +12,13 @@ not a due time; the report compares them with today's date on your laptop.
 
 ## Run locally
 
+On this laptop, double-click the **Refresh Google Tasks** desktop shortcut to
+fetch your latest tasks and open the report in Notepad. A terminal briefly shows
+progress and stays open if something goes wrong. Internet access is required.
+The shortcut runs `Refresh Google Tasks.cmd` in this repository. Keep the repo
+in its current location for the shortcut to keep working. You can also run that
+launcher directly from File Explorer.
+
 With Python 3.10 or newer installed, open PowerShell in this repository:
 
 ```powershell
